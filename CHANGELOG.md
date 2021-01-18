@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 ## [Unreleased]
 
 
+## [1.8.3] - 2021-01-18
+
+### Security Fix (CVE-2020-7776)
+
+- Prevent XSS through cell comments in the HTML Writer.
+
+
 ## [1.8.2] - 2019-07-08
 
 ### Fixed
